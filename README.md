@@ -1,4 +1,3 @@
-# Cinema Bot ([@cinema_rvg_bot](https://t.me/cinema_rvg_bot))
 
 [![Try it right now](https://img.shields.io/badge/Telegram-Try%20now!-brightgreen?&logo=telegram)](https://t.me/cinema_rvg_bot)
 
